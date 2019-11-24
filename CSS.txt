@@ -1,0 +1,136 @@
+/* Tela de Cadastro */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* BV 1 */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* BV 2 */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* BV 3 */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* Match */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* Match 2 */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* Match 3 */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* Match 4 */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* Match 5 Enconttrando */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* Match 6 Perfil */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* Home */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* Agenda */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #000000;
+
+
+/* Feed */
+
+position: relative;
+width: 375px;
+height: 812px;
+overflow-y: scroll;
+
+background: #000000;
+
+
+/* Sobre */
+
+position: relative;
+width: 375px;
+height: 812px;
+overflow-y: scroll;
+
+background: #000000;
+
+
+/* Chat */
+
+position: relative;
+width: 375px;
+height: 812px;
+overflow-y: scroll;
+
+background: #000000;

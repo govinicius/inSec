@@ -1,0 +1,147 @@
+// Tela de Cadastro
+
+var view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1).cgColor
+
+
+
+// BV 1
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// BV 2
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// BV 3
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Match
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Match 2
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Match 3
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Match 4 
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Match 5 Enconttrando
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Match 6 Perfil
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Home
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Agenda
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Feed
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Sobre
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
+
+
+
+// Chat
+
+view = UILabel()
+view.frame = CGRect(x: 0, y: 0, width: 375, height: 812)
+view.backgroundColor = .white
+
+view.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 1).cgColor
